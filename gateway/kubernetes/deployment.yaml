@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: gateway
-          image: username/gateway:latest
+          image: lvclcl/gateway:20250708
           ports:
             - containerPort: 8080
